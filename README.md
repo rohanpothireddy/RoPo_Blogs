@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RopoBlogs 📰
 
 A multi-category blog covering **Tech, Lifestyle, and Sports** — built with React + Vite, ready to deploy on Vercel or Netlify.
@@ -74,3 +75,7 @@ Edit `src/data/posts.js` — each post is a plain JS object. Add a new object to
 ## 🎨 Changing Colors / Fonts
 
 Edit `src/styles/global.css` — all design tokens are CSS variables at the top of the file.
+=======
+# RoPo_Blogs
+Pesonal blogging website
+>>>>>>> 7031d6d8d94813f964695c2d8b9065e11e5aa5e8
